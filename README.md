@@ -6,7 +6,6 @@ It provides a simple and user-friendly interface that enables users to stay info
 The solution focuses on delivering the most important information quickly and efficiently.
 Its modular design also allows for future expansion with additional services and features.
 </p>
-<br>
 
 <h3>What the app does</h3>
 <li>See how much money the shop has</li>
