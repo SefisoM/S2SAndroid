@@ -1,4 +1,12 @@
-<h1>SHOP 2 SHOP Android Application</h1>
+<h1>SHOP 2 SHOP Android Application</h1><br>
+
+<p>
+This application was built for Nigerian shop owners to help them easily track their available balance and recent account activity.
+It provides a simple and user-friendly interface that enables users to stay informed about their shop's financial status.
+The solution focuses on delivering the most important information quickly and efficiently.
+Its modular design also allows for future expansion with additional services and features.
+</p>
+<br>
 
 <h3>What the app does</h3>
 <li>See how much money the shop has</li>
