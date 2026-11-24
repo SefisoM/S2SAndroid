@@ -1,0 +1,27 @@
+[
+  {
+    "network": "MTN",
+    "enabled": true,
+    "products": [
+      { "sku": "MTN-10", "face_value": 10, "price": 9.75 },
+      { "sku": "MTN-29", "face_value": 29, "price": 28.27 },
+      { "sku": "MTN-DATA-1GB", "face_value": 0, "price": 99 }
+    ]
+  },
+  {
+    "network": "Vodacom",
+    "enabled": true,
+    "discount_pct": "2.5",
+    "products": [
+      { "sku": "VOD-10", "face_value": 10, "price": 10 },
+      { "sku": "VOD-50", "face_value": 50, "price": 52 }
+    ]
+  },
+  {
+    "network": "Telkom",
+    "enabled": false,
+    "products": [
+      { "sku": "TLK-20", "face_value": 20, "price": 19.5 }
+    ]
+  }
+]

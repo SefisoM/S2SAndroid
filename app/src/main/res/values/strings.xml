@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">S2SAndroid</string>
+    <string name="pay_bill">Pay bill</string>
+    <string name="top_up">TopUp</string>
+    <string name="more">More</string>
+    <string name="payment_history">Payment history</string>
 </resources>

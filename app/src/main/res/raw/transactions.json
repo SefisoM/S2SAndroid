@@ -1,0 +1,105 @@
+[
+  {
+    "id": "T-1001",
+    "created_at": "2026-11-10T07:42:11Z",
+    "type": "credit",
+    "amount": "250.00",
+    "currency": "ZAR",
+    "status": "completed",
+    "description": "Customer card payment"
+  },
+  {
+    "id": "T-1002",
+    "created_at": "2026-11-10T09:03:55+02:00",
+    "type": "debit",
+    "amount": "89,90",
+    "currency": "ZAR",
+    "status": "completed",
+    "description": "Airtime",
+    "msisdn": "0821234567"
+  },
+  {
+    "id": "T-1003",
+    "created_at": 1794304800,
+    "type": "credit",
+    "amount": "1,000.00",
+    "currency": "ZAR",
+    "status": "completed",
+    "description": "Wallet top up"
+  },
+  {
+    "id": "T-1004",
+    "created_at": "10/11/2026 14:05",
+    "type": "debit",
+    "amount": "45.50",
+    "currency": "ZAR",
+    "status": "completed",
+    "description": "Airtime",
+    "msisdn": "+27 82 123 4567"
+  },
+  {
+    "id": "T-1002",
+    "created_at": "2026-11-10T09:03:55+02:00",
+    "type": "debit",
+    "amount": "89,90",
+    "currency": "ZAR",
+    "status": "completed",
+    "description": "Airtime",
+    "msisdn": "0821234567"
+  },
+  {
+    "id": "T-1005",
+    "created_at": "2026-11-11T11:20:00Z",
+    "type": "debit",
+    "amount_minor": 15000,
+    "currency": "ZAR",
+    "status": "failed",
+    "description": "Supplier order"
+  },
+  {
+    "id": "T-1006",
+    "created_at": "2026-11-11T12:00:00Z",
+    "type": "credit",
+    "amount": "12.00",
+    "currency": "USD",
+    "status": "completed",
+    "description": null
+  },
+  {
+    "id": "T-1007",
+    "created_at": "2026-11-12T06:30:00Z",
+    "type": "debit",
+    "amount": "-30.00",
+    "currency": "ZAR",
+    "status": "pending",
+    "description": "Airtime",
+    "msisdn": "27821234567"
+  },
+  {
+    "id": "T-1008",
+    "created_at": "13/11/2026 09:30",
+    "type": "credit",
+    "amount": "0",
+    "currency": "ZAR",
+    "status": "completed",
+    "description": "Rewards"
+  },
+  {
+    "id": "T-1009",
+    "created_at": "2026-11-13T15:45:10Z",
+    "type": "debit",
+    "amount": "120.00",
+    "currency": "ZAR",
+    "status": "reversed",
+    "description": "Money transfer"
+  },
+  {
+    "id": "T-1010",
+    "created_at": "2026-11-14T08:00:00Z",
+    "type": "credit",
+    "amount": "5 000.00",
+    "currency": "ZAR",
+    "status": "completed",
+    "description": "Customer card payment"
+  }
+]
