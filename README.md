@@ -7,14 +7,14 @@ The solution focuses on delivering the most important information quickly and ef
 Its modular design also allows for future expansion with additional services and features.
 </p>
 
-<h3>What the app does</h3>
+<h2>What the app does</h2>
 <li>See how much money the shop has</li>
 <li>See what happened lately</li>
 
-<h3>What was left out</h3>
+<h2>What was left out</h2>
 <li>Buy airtime for customer</li>
 
-<h3>What I would ask if I could</h3>
+<h2>What I would ask if I could</h2>
 <li>The app needs designs ready before developing, is it something thats practiced in S2S</li>
 <li>What is S2S prefered design architecture</li>
 <li>What is commit naming standard for S2S devs</li><br>
